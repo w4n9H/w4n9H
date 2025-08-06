@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **w4n9H/w4n9H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,20 +17,12 @@ Here are some ideas to get you started:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20My%20Hub!&fontSize=30" />
 </div>
 
-## 📊 GitHub Analytics
+<br />
 
-<table>
-  <tr>
-    <td width="55%">
-      <img src="https://github-readme-stats.vercel.app/api?username=w4n9H&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-    </td>
-    <td width="45%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=w4n9H&theme=radical&hide_border=true" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=w4n9H&theme=react-dark&hide_border=true&area=true" />
-    </td>
-  </tr>
-</table>
+<code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+
+| <a href="https://github.com/w4n9H"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w4n9H&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="w4n9H's github stats" /></a> | <a href="https://github.com/w4n9H"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4n9H&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+
