@@ -25,4 +25,13 @@ Here are some ideas to get you started:
 | <a href="https://github.com/w4n9H"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w4n9H&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="w4n9H's github stats" /></a> | <a href="https://github.com/w4n9H"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4n9H&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
+#### Top Repositories
+
+<a href="https://github.com/w4n9H/autocoder-nano">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w4n9H&repo=autocoder-nano&theme=buefy" />
+</a>
+<a href="https://github.com/w4n9H/PythonSkillTree">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w4n9H&repo=PythonSkillTree&theme=buefy" />
+</a>
+
 
