@@ -13,25 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&text=Welcome%20to%20My%20Hub!&fontSize=30" />
-</div>
-
-<br />
-
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 
 | <a href="https://github.com/w4n9H"><img align="center" src="https://github-readme-stats.vercel.app/api?username=w4n9H&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="w4n9H's github stats" /></a> | <a href="https://github.com/w4n9H"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w4n9H&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
-
-<a href="https://github.com/w4n9H/autocoder-nano">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w4n9H&repo=autocoder-nano&theme=buefy" />
-</a>
-<a href="https://github.com/w4n9H/PythonSkillTree">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=w4n9H&repo=PythonSkillTree&theme=buefy" />
-</a>
 
 
